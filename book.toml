@@ -1,0 +1,10 @@
+[book]
+authors = ["Robmart"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Guardians of Azeroth 2 Wiki"
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
