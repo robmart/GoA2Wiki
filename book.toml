@@ -8,3 +8,5 @@ title = "Guardians of Azeroth 2 Wiki"
 [output.html]
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
+git-repository-url = "https://github.com/robmart/GoA2Wiki/tree/master"
+edit-url-template = "https://github.com/robmart/GoA2Wiki/edit/master/{path}"
